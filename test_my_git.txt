@@ -1,1 +1,4 @@
+Creating a conflict
+
+>>>>>>> git_branch
 test_my_git
