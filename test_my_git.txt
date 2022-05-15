@@ -1,2 +1,4 @@
-#1 trying to create a conflict
+Creating a conflict
+
+>>>>>>> git_branch
 test_my_git
